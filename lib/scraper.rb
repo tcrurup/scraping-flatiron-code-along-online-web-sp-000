@@ -26,8 +26,9 @@ class Scraper
   end
   
   def make_courses
-    
+    #actually instantiates the course and gives the object the correct title
   end
+  
 end
 
 
