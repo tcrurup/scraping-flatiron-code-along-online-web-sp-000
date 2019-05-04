@@ -29,8 +29,7 @@ class Scraper
   end
   
   def get_courses
-    #will use a css selectos to grab all the html elements that contain a course
-    #Will be a collection of XML elements
+    self.get_page.css
   end
   
   def make_courses
